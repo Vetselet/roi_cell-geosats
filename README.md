@@ -10,10 +10,10 @@
 Процедура осуществлена в файле [interference.py](https://github.com/Vetselet/roi_cell-geosats/blob/main/interference.py) в виде класса.
 
 Запустить процедуру можно в файле [run_interference.py](https://github.com/Vetselet/roi_cell-geosats/blob/main/run_interference.py).
-В качестве результата будет датафрейм, в котором содержится информация 
-о номере ячейки, о номере геостационарного спутника, о номере низкоорбитального спутника и об эпохе.
+В качестве результата будет numpy массив, в котором содержится информация 
+о номере ячейки, о номере геостационарного спутника, о номере низкоорбитального спутника.
 
-Для числа сот 64000 результат процедуры записан в файле []().
+Для числа сот 64000 результат процедуры записан в файле ["visibility_64000cell_2deg.json"](https://github.com/Vetselet/roi_cell-geosats/blob/main/visibility_64000cell_2deg.json).
 
 Ответ на первую задачу записан в файле [CodeReview.pdf](https://github.com/Vetselet/roi_cell-geosats/blob/main/CodeReview.pdf)
 
